@@ -1,1 +1,2 @@
-# SEARCH_Artificial-intelligence-project
+# Artificial Intelligence Project: SEARCH
+Project tìm đường đi ngắn nhất sử dụng BFS, DFS, A*, ...
